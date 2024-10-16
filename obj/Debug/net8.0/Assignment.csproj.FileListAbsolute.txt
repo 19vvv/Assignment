@@ -1,0 +1,14 @@
+C:\Users\futoo\OneDrive\سطح المكتب\Calculator\Assignment\bin\Debug\net8.0\Assignment.exe
+C:\Users\futoo\OneDrive\سطح المكتب\Calculator\Assignment\bin\Debug\net8.0\Assignment.deps.json
+C:\Users\futoo\OneDrive\سطح المكتب\Calculator\Assignment\bin\Debug\net8.0\Assignment.runtimeconfig.json
+C:\Users\futoo\OneDrive\سطح المكتب\Calculator\Assignment\bin\Debug\net8.0\Assignment.dll
+C:\Users\futoo\OneDrive\سطح المكتب\Calculator\Assignment\bin\Debug\net8.0\Assignment.pdb
+C:\Users\futoo\OneDrive\سطح المكتب\Calculator\Assignment\obj\Debug\net8.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\futoo\OneDrive\سطح المكتب\Calculator\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\futoo\OneDrive\سطح المكتب\Calculator\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfo.cs
+C:\Users\futoo\OneDrive\سطح المكتب\Calculator\Assignment\obj\Debug\net8.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\futoo\OneDrive\سطح المكتب\Calculator\Assignment\obj\Debug\net8.0\Assignment.dll
+C:\Users\futoo\OneDrive\سطح المكتب\Calculator\Assignment\obj\Debug\net8.0\refint\Assignment.dll
+C:\Users\futoo\OneDrive\سطح المكتب\Calculator\Assignment\obj\Debug\net8.0\Assignment.pdb
+C:\Users\futoo\OneDrive\سطح المكتب\Calculator\Assignment\obj\Debug\net8.0\Assignment.genruntimeconfig.cache
+C:\Users\futoo\OneDrive\سطح المكتب\Calculator\Assignment\obj\Debug\net8.0\ref\Assignment.dll
