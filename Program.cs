@@ -1,9 +1,9 @@
 ﻿
 Console.Write("Enter the first number: ");
-double num1 = Convert.ToDouble(Console.ReadLine());
+double num1 = double.Parse(Console.ReadLine());
 
 Console.Write("Enter the second number: ");
-double num2 = Convert.ToDouble(Console.ReadLine());
+double num2 = double.Parse(Console.ReadLine());
 
 Console.Write("Choose an operation (+,-,*,/): ");
 string operation = Console.ReadLine();
